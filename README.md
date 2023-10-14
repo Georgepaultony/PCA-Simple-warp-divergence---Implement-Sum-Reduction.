@@ -31,8 +31,8 @@ Atlast , free the host and device memory then reset the device and check for res
 ## PROGRAM:
 
 ```
-Developed by : Balureddy Velayudham Gowtham
-Reg no.: 212222040024
+Developed by : GEORGE PAUL TONY .C
+Reg no.: 212222040043
 ```
 ## kernel reduceUnrolling8
 ```
